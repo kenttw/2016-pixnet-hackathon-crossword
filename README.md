@@ -5,13 +5,11 @@
 * 本文
 * 範例題目
 
-
 ## 比賽方式
 * Slack Integratioin Sample Code
 * Slack Integration Library
 
 ## 評分方式
-----
 
 ### 演算法推薦結果(80%)
 * aaaa
