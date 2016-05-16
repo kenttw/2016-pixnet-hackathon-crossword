@@ -10,6 +10,7 @@
 * Slack Integratioin Sample Code
 * Slack Integration Library
 ### 評分方式
+----
 #### 演算法推薦結果(80%)
 * aaaa
 #### 簡報分數(20%)
