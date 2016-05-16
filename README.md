@@ -11,6 +11,8 @@
 
 * Slack Integratioin Sample Code
 * Slack Integration Library
+ * https://github.com/slackhq/python-slackclient
+ * https://github.com/os/slacker
 
 ## 評分方式
 
