@@ -54,13 +54,17 @@ c. 朱茵
 
 ## 評分方式
 
-### 演算法推薦結果(80%)
+#### 演算法推薦結果(80%)
 * 準確率
 * 回應速度
  
-### 簡報分數(20%)
+#### 簡報分數(20%)
 
 
 ## 推薦閱讀
 * [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 * [Vector Representations of Words](https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html)
+
+
+## 補充說明
+由於本站內容龐大，人力有所不逮。本次題目為電腦半自動選題加上人工過濾，若題目有疏漏之處還請不吝指正。
