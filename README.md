@@ -39,18 +39,26 @@ c. 朱茵
 
 因為知道每一位參賽者都追求更高的答對率，追求完美，所以原始文本集與範例題目我們一起給你。
 
-## 比賽方式
-各隊必需實作 Slack Bot 作為回答比賽題目的 AI 機器人，接下來各隊的 Bot 會被邀請至擂台頻道，擂台主Bot 會提問題目，再由各隊Bot 回答計算結果，並由大會程式來即時統計分數
+## 比賽規則
+各隊必需實作 Slack Bot 作為回答比賽題目的 AI 機器人，接下來各隊的 Bot 會被邀請至擂台頻道，擂台主Bot 會提問題目，再由各隊Bot 回答計算結果，並由大會計分 Bot 來即時統計分數，答題需兼顧正確性及回覆速度。
 
-* Slack Channel Link
-* Slack Integratioin Sample Code
+* Hackathon Slack Team Link: 
+* Slack Integratioin Sample Code: 
 * Slack Integration Library
  * https://github.com/slackhq/python-slackclient
  * https://github.com/os/slacker
 
-## 如何加入 pixnethackathon2016 channel 
+### 加入 Slack pixnethackathon2016 channel 步驟說明
 
+1. 每組提供給大會一個 Slack 帳號信箱，由主辦單位邀請加入 Slack team
+2. 各隊自行產生一個 Bot 帳號後，提供名稱由主辦單位邀請加入競賽 channel
 
+### 競賽方式
+
+* 參賽 Bot 必須辨認主辦單位出題 Bot 的發問格式，才能在第一時間掌握題目
+* 參賽 Bot 必須儘快的回覆標準答案，tag 回覆出題 Bot，並依照規定格式將答案送到 channel
+* 每一輪發問十題，答對一題得1分，答錯一題倒扣1分，由計分 Bot 計算結果，每次淘汰最低分一隊
+* 剩下前三名時，進入終極PK賽，為「搶答制」，第一個把正確答案回答到 channel 的 Bot 得一分其餘零分，先得到10分者獲勝
 
 ## 評分方式
 
